@@ -1,6 +1,9 @@
 body {
     font-family: 'Rubik' sans-serif;
 }
+.search{
+    width: 275px;
+}
 
 .name-nav{
     list-style: none;
